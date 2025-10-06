@@ -27,7 +27,7 @@
     <div class="calendar">
         <div class="nav-btn-container">
             <button class="nav-btn">⏮️</button>
-            <h2 class="monthYear" style="margin: 0;"></h2>
+            <h2 id="monthYear" style="margin: 0;"></h2>
             <button class="nav-btn">⏭️</button>
         </div>
 
